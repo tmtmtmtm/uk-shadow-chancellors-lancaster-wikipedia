@@ -1,0 +1,132 @@
+[
+  {
+    "item": {
+      "value": "Q262727",
+      "label": "Mo Mowlam"
+    },
+    "replacedBy": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "start": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-09-29T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q262727$30BCB986-2989-430D-B3AA-6FB55A81B4DB"
+  },
+  {
+    "item": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "replaces": {
+      "value": "Q262727",
+      "label": "Mo Mowlam"
+    },
+    "replacedBy": {
+      "value": "Q332843",
+      "label": "Ann Taylor, Baroness Taylor of Bolton"
+    },
+    "start": {
+      "value": "1993-10-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q583993$D919CB48-4A09-4F19-BCF9-744C484A3B77"
+  },
+  {
+    "item": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "replacedBy": {
+      "value": "Q332843",
+      "label": "Ann Taylor, Baroness Taylor of Bolton"
+    },
+    "start": {
+      "value": "1993-10-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q583993$ee80600a-46d5-1e18-cec0-cfe4c30f4bdc"
+  },
+  {
+    "item": {
+      "value": "Q332843",
+      "label": "Ann Taylor, Baroness Taylor of Bolton"
+    },
+    "replaces": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "replacedBy": {
+      "value": "Q1200029",
+      "label": "Derek Foster, Baron Foster of Bishop Auckland"
+    },
+    "start": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1995-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332843$409186E5-A3CF-4E56-85B8-C6B2DC8EE6C3"
+  },
+  {
+    "item": {
+      "value": "Q1200029",
+      "label": "Derek Foster, Baron Foster of Bishop Auckland"
+    },
+    "replaces": {
+      "value": "Q332843",
+      "label": "Ann Taylor, Baroness Taylor of Bolton"
+    },
+    "replacedBy": {
+      "value": "Q332314",
+      "label": "Michael Heseltine"
+    },
+    "start": {
+      "value": "1995-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1200029$4B18A1E1-58F1-4FDD-BBC2-4032B8E6B58D"
+  },
+  {
+    "item": {
+      "value": "Q333058",
+      "label": "Gillian Shephard"
+    },
+    "replaces": {
+      "value": "Q332314",
+      "label": "Michael Heseltine"
+    },
+    "replacedBy": {
+      "value": "Q259836",
+      "label": "Sir George Young"
+    },
+    "start": {
+      "value": "1997-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1998-06-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333058$F99504D6-A30D-4C89-8BAC-7DD8A0D10D72"
+  }
+]
