@@ -13,7 +13,7 @@ class WikipediaOfficeholderPage < Scraped::HTML
   def tables_with_header(str)
     noko.xpath(format('.//table[.//th[contains(
       translate(., "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz"),
-    "%s")]]', str))
+    "%s")]]', str.downcase))
   end
 
   def raw_office_holders

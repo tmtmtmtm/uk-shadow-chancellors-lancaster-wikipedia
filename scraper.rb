@@ -21,14 +21,14 @@ class ListPage < WikipediaOfficeholderPage
   decorator UnspanAllTables
 
   def wanted_tables
-    tables_with_header('office').first
+    tables_with_header('Concurrent').first
   end
 end
 
 # Each officeholder in the list
 class HolderItem < WikipediaOfficeholderRow
   def columns
-    %w[_color name image start_date end_date _party]
+    %w[_color name image start_date end_date _also _party]
   end
 end
 
